@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Demo</string>
+    <string name="payout">Payout</string>
+    <string name="payout_status">Payout Status</string>
+    <string name="momopay">MOMOPAY</string>
+    <string name="zalopay">ZALOPAY</string>
+    <string name="vnpay">VNPAY</string>
+    <string name="ninepay">9Pay</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="onepay">OnePay</string>
 </resources>
